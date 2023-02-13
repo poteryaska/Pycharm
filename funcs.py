@@ -2,5 +2,6 @@ def get_summ():
     a = 2 + 3
     return a
 
-print(get_summ())
-
+def get_minus():
+    b = 5 - 2
+    return b
